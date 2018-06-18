@@ -10,3 +10,6 @@
 - Save your timetable to a file, for example, `my_timetable`, and use `cat my_timetable` or `more my_timetable` to print the timetable to the console. Consider defining a `timetable` alias in bash with this command.
 - `cat` may be used to display multiple timetables in one go.
 - Obviously, your terminal emulator must support unicode.
+
+### Note
+On the Github preview the tables appear broken. They are not - just open the files (or copy to a blank file) in an editor without word wrapping.
